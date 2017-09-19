@@ -1,0 +1,13 @@
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbprojResolveAssemblyReference.cache
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.Cache
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+c:\users\william estrela louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\William Estrela Louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.dll
+C:\Users\William Estrela Louz\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\nunit.framework.xml
